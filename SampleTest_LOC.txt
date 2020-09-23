@@ -1,0 +1,67 @@
+Count Lines of Code v1.2.217                              2 May 2012  03:07 PM
+
+                                SampleTest.vbp
+                        Kenneth Ives  kenaso@tx.rr.com
+------------------------------------------------------------------------------
+
+   VBP Name:  C:\Kens Software\TstPrng\SampleTest.vbp
+
+Module Name:  C:\Kens Software\TstPrng\clsRandom.cls
+
+                  50  Constant variables
+                   3  Enum Structures
+                   1  Type Structures
+                  12  API Declare statements
+                   2  Property Let routines
+                   2  Property Get routines
+                  10  Sub routines
+                  15  Functions
+                 972  Miscellaneous lines of code
+                  15  Auto generated lines (Not Counted)
+                 190  Blank lines (Not Counted)
+               1,178  Comment lines (Not Counted)
+          ----------
+               1,063  Module lines of code
+
+Module Name:  C:\Kens Software\TstPrng\modMain.bas
+
+                   6  Constant variables
+                   2  API Declare statements
+                   1  Sub routines
+                   4  Functions
+                 160  Miscellaneous lines of code
+                   1  Auto generated lines (Not Counted)
+                  23  Blank lines (Not Counted)
+                 127  Comment lines (Not Counted)
+          ----------
+                 173  Module lines of code
+
+Module Name:  C:\Kens Software\TstPrng\modMessages.bas
+
+                  12  Constant variables
+                   1  Enum Structures
+                   1  Type Structures
+                   8  API Declare statements
+                   2  Sub routines
+                   4  Functions
+                 124  Miscellaneous lines of code
+                   1  Auto generated lines (Not Counted)
+                  29  Blank lines (Not Counted)
+                 259  Comment lines (Not Counted)
+          ----------
+                 152  Module lines of code
+
+          ==========
+               1,388  Total number of lines of code
+
+******************************************************************************
+NOTE:     Visual Basic trailers are not counted.  These are the
+          logical ending statements used by proceedural headings.
+
+               End Sub     End Function     End Property
+               End If      End Type         Loop
+               Next        Wend             End With
+               End Select
+******************************************************************************
+
+
